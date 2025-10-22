@@ -7,8 +7,6 @@ This is the frontend of the Cafe Finder project — built with React and connect
 
 🔗 https://cafefinderbyaiza.netlify.app
 
-Backend API: https://cafe-finder-backend.onrender.com
-
 🖥️ Tech Stack
 
 Frontend Framework: React (Create React App)
